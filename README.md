@@ -2,8 +2,8 @@
 
 Um aplicativo de cronômetro de contagem regressiva em tela cheia, desenvolvido com Flutter para a plataforma Windows. Ideal para ser exibido em telas grandes durante eventos, maratonas de programação e competições como a Robochallenge.
 
-![Screenshot do Aplicativo](link_para_sua_imagem.png)
-*(Substitua a imagem acima por um screenshot real do seu aplicativo em execução)*
+<img width="1892" height="1027" alt="image" src="https://github.com/user-attachments/assets/982b9488-7ae0-407c-b677-b7b755f42e5a" />
+
 
 ---
 
